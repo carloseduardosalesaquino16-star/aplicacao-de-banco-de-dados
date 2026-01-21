@@ -1,0 +1,2 @@
+insert into  ESPORTES (NOME , QUANTIDADE_DE_PARTICIPANTES,DETALHES, DIFICULDADE)
+VALUES ('Drift', 15 , 'Carros', Hardcore);
