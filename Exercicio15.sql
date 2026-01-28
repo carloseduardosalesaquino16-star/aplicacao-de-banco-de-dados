@@ -1,0 +1,11 @@
+SELECT USER , Host FROM mysql.user; 
+USE DB_CARLOS_EDUARDO;
+
+SET SQL_SAFE_UPDATES = 0;
+
+ 
+UPDATE  FUND
+SET IS_OPEN =  false
+WHERE RINK_LEVEL = 'Alto';
+
+select * from FUND
