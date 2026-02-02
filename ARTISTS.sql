@@ -1,0 +1,31 @@
+USE DB_CARLOS_EDUARDO;
+
+INSERT INTO ARTISTS (NAME, COUNTRY)
+VALUES ('Michael Jackson', 'Estados Unidos');
+
+INSERT INTO ARTISTS (NAME, COUNTRY)
+VALUES ('Madonna', 'Estados Unidos');
+
+INSERT INTO ARTISTS (NAME, COUNTRY)
+VALUES ('Elton John', 'Reino Unido');
+
+INSERT INTO ARTISTS (NAME, COUNTRY)
+VALUES ('Freddie Mercury', 'Reino Unido');
+
+INSERT INTO ARTISTS (NAME, COUNTRY)
+VALUES ('Beyoncé', 'Estados Unidos');
+
+INSERT INTO ARTISTS (NAME, COUNTRY)
+VALUES ('Adele', 'Reino Unido');
+
+INSERT INTO ARTISTS (NAME, COUNTRY)
+VALUES ('Shakira', 'Colômbia');
+
+INSERT INTO ARTISTS (NAME, COUNTRY)
+VALUES ('Caetano Veloso', 'Brasil');
+
+INSERT INTO ARTISTS (NAME, COUNTRY)
+VALUES ('Rihanna', 'Barbados');
+
+INSERT INTO ARTISTS (NAME, COUNTRY)
+VALUES ('Ed Sheeran', 'Reino Unido');
